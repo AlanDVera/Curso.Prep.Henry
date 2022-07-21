@@ -1,0 +1,29 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+
+
+- Variables: Es como una caja, que al principio esta vacia y luego la podremos llenar con algo. Luego entenderemos que la caja es un espacio de memoria donde lo que guardamos son datos.
+
+- Strings: Nos referimos como String al texto que pongamos dentro de las comillas, simples (Ejemplo:'texto') o dobles (Ejemplo: "texto").
+
+- Funciones: Una funcion podria ser comparada con una accion a realizar, si necesitamos algun elemento para realizar la accion, aqui los llamaremos parametros y se los debemos colocar cuando creemos nuesta funcion.
+Tendremos despues la descripcion de la accion en si, que vendria a ser la accion a realizar paso por paso.
+Y para finalizar existe la posibilidad de que nuestra accion haya generado algo o no.
+    Si nuestra accion no genera algo, finaliza sin problemas.
+    Pero si nuestra accion genera algo, deberemos indicar que es lo que se va a generar de vuelta, lo que volvera o retorne nuestra funcion.
+
+-Declaracion 'if': 
+Es una comparacion que puede ser tan simple como preguntarnos: 10 es mayor que 5?
+Para lo cual tendremos 2 respuestas posibles, que sea cierto (true) o que sea falso (false).
+En cada caso, ya sea true o false, podremos colocar que hacer en cada ocasion.
+
+* Valores booleanos (`true`, `false`): Son valores de verdad, donde las 2 posibles respuestas son verdadero o falso.
+
+
+
