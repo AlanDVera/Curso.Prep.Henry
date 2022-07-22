@@ -1,0 +1,24 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+
+FOR:
+    En base a ciertos criterios que decidamos se repetira el contenido que pongamos dentro del FOR.
+    Estoy criterios son, desde que valor vamos a contar, hasta que valor vamos a contar, y cuanto se incrementara el valor inicial luego de dar una vuelta al ciclo.
+
+&&:
+    Agregar esto implica que lo que pongamos a su izquierda como a su derecha se debe cumplir,
+    Ejemplo:  a > 10 && a < 20
+    En el ejemplo a debera ser mayor a 10 Y (&&) menor a 20.
+
+||:
+    Agregar esto implica que lo que una de las condiciones que pongamos a su izquierda o derecha se deben cumplir,
+    Ejemplo:  a === 10 || a === 20
+    En el ejemplo a debera ser igual 10 o (||) igual a 20.
+
+!:
+    Agregar esto implica una negacion (NOT) y se utiliza colandolo delante de lo que queramos negar
+    Ejemplo:  a != 10
+    En el ejemplo a debera ser NO IGUAL a 10, o bien tambien se podria decir distinto.
